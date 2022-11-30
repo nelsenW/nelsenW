@@ -16,7 +16,8 @@
 
 
 ### Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql)](https://skillicons.dev)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsenW&count_private=true)]
+[![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql)](https://skillicons.dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsenW&count_private=true)]
 
 ### My Stats :
 
