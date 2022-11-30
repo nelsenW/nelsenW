@@ -6,7 +6,7 @@
   
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ycrivera/">
+  <a href="https://www.linkedin.com/in/william-nelsen-571157244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql)](https://skillicons.dev)
 
 ### :fire: My Stats :
 
