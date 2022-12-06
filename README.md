@@ -24,8 +24,7 @@
  
  <details>
  <summary>GitHub Stats</summary>
-  <img align="left" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" />
-  <img align="right" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
+  <img align="center" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" /><img align="center" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
   <br />
   
 </details>
