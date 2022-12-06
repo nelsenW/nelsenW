@@ -19,20 +19,21 @@
 ### My Stats :
  
  <details>
-<summary>GitHub Stats</summary>
+<summary>GitHub Stats <img src="https://user-images.githubusercontent.com/34351210/205989480-e7782fda-ff52-411a-9128-45d32d04fd87.svg
+"/></summary>
   <img align="center" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" /><img align="center" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
   <br />
 </details>
  
 <details>
- <summary>LeetCode Stats</summary>
+ <summary>LeetCode Stats <img src="https://user-images.githubusercontent.com/34351210/205989223-32f40593-805f-4300-9747-8d643f7fa27b.svg"/> </summary>
   <img align="center" alt="William's LeetCode Stats" src="https://leetcard.jacoblin.cool/wnelsen9" />
 </details>
  
 <details>
- <summary>Codewars Stats</summary>
+ <summary>Codewars Stats <img src="https://user-images.githubusercontent.com/34351210/205989846-cc27cd6c-01de-4a9a-a1d1-19436cabda8d.svg"/></summary>
   <img align="center" alt="William's Codewars Stats" src="https://www.codewars.com/users/Apolly0n/badges/large" />
 </details>
  
 
- 
+
