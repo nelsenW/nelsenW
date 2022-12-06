@@ -23,9 +23,9 @@
 ### My Stats :
  
  <details>
- <summary>:zap: GitHub Stats</summary>
+ <summary>GitHub Stats</summary>
   <img align="left" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" />
-  <img align="left" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
+  <img align="right" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
   <br />
   
 </details>
