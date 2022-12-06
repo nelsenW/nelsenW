@@ -21,7 +21,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql)](https://skillicons.dev)
 
 ### My Stats :
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000)
+ 
+ <details>
+ <summary>:zap: GitHub Stats</summary>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000)
+  <br />
+  
+</details>
+
  
