@@ -1,7 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=William+Nelsen)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=William+Nelsen)](https://git.io/typing-svg)]
 <br> 
+
 <div align="center">
+ 
 **`Former chef turned Fullstack-Software Engineer`**
   
 ### Connect With Me!
