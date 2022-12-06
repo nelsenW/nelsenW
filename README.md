@@ -24,8 +24,8 @@
  
  <details>
  <summary>:zap: GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula) 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000)
+  <img align="left" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" />
+  <img align="left" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
   <br />
   
 </details>
