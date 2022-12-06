@@ -26,12 +26,12 @@
  
 <details>
  <summary>LeetCode Stats</summary>
-  <img align="left" alt="William's LeetCode Stats" src="https://leetcard.jacoblin.cool/wnelsen9" />
+  <img align="center" alt="William's LeetCode Stats" src="https://leetcard.jacoblin.cool/wnelsen9" />
 </details>
  
 <details>
  <summary>Codewars Stats</summary>
-  <img align="left" alt="William's Codewars Stats" src="https://www.codewars.com/users/Apolly0n/badges/large" />
+  <img align="center" alt="William's Codewars Stats" src="https://www.codewars.com/users/Apolly0n/badges/large" />
 </details>
  
 
