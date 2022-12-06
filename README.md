@@ -1,5 +1,7 @@
 <div align="center">
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=William+Nelsen)](https://git.io/typing-svg)]
+ 
+ </div>
 <br> 
 <div align="center">
 **`Former chef turned Fullstack-Software Engineer`**
