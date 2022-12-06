@@ -19,14 +19,20 @@
 ### My Stats :
  
  <details>
- <summary>GitHub Stats</summary>
+<summary>GitHub Stats</summary>
   <img align="center" alt="William's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nelsenW&show_icons=true&theme=dracula" /><img align="center" alt="William's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nelsenW&theme=dark&background=000000" />
   <br />
 </details>
  
- <details>
+<details>
  <summary>LeetCode Stats</summary>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/wnelsen9?theme=nord)
+  <img align="left" alt="William's LeetCode Stats" src="https://leetcard.jacoblin.cool/wnelsen9" />
 </details>
+ 
+<details>
+ <summary>Codewars Stats</summary>
+  <img align="left" alt="William's Codewars Stats" src="https://www.codewars.com/users/Apolly0n/badges/large" />
+</details>
+ 
 
  
