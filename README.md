@@ -11,10 +11,10 @@
   
 ### About Me: 
   
-<p></p>
-
-<p></p>
-  
+<p>Why did the chef fail his programming course?</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=He+wrote+too+much+spaghetti+code...)](https://git.io/typing-svg)
+ 
+ <p>A former chef de partie at a Michelin starred restaurant I know a thing or two about cooking and also a thing or two about hard work. The dedication and fire I had to put into putting out food now is directly translated into my code. I am a meticulous and detail oriented coder with a passion for solving puzzles.</p>
 
 ### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql)](https://skillicons.dev)
