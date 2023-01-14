@@ -20,7 +20,7 @@
 
 <details>
  <summary>Languages/Tools</summary>
-  <img align="center" alt="William's Languages/Tools" src="https://skillicons.dev/icons?i=react,js,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql"/>
+  <img align="center" alt="William's Languages/Tools" src="https://skillicons.dev/icons?i=react,js,python,redux,postgres,ruby,rails,nodejs,mongodb,express,aws,git,linux,html,css,vscode,regex,mysql"/>
 </details>
  
  <details>
